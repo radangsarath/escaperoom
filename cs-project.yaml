@@ -1,7 +1,7 @@
 # enter the details of the project here
-project:
-  name: ''
-  code: ''
-  year: ''
-  description: ''
-  supervisor: ''
+project: Escape Room Architecture
+  name: 'The Ultimate Escape Room'
+  code: '24S1'
+  year: '2024'
+  description: 'This unique escape room concept uses digital resources to provide an interesting educational experience for higher education students. Using a combination of IT course materials and adaptable digital tools such as Google Forms, Freepik, Adobe Photoshop, Illustrator, Affinity Designer, and Cryptii.com, the project presents students to complex problem-solving situations buried inside exciting themed challenges. Each escape room is designed to improve critical thinking skills and apply theoretical knowledge through engaging and visually attractive challenges. This initiative, designed to fit effortlessly into academic curriculum, not only captivates but also educates, making it a one-of-a-kind supplement to standard learning techniques.'
+  supervisor: 'Farhan Rashid'
